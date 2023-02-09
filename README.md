@@ -6,8 +6,4 @@ Repositório criado para o Desafio de Projeto.
 
 ## Anotações importantes:
 
-hahahahahahaha
-
-blablablabla
-
 testando 123...
